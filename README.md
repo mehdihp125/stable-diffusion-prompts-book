@@ -6,10 +6,12 @@ Good prompts are essential for achieving high-quality results. They can help str
 
 This guide can help you learn how to use Stable Diffusion to create images. 
 
-📌 Number of pages : 110
+------------------------------------------------------------------
+# Download 
 
+📌 Number of pages : 104
 
-
+🔥 stable diffusion prompts - full guide : [Download](http://dlgram.com/4qtf1f)
 
 -----------------------------------------------------------------
 
