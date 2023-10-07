@@ -6,6 +6,11 @@ Good prompts are essential for achieving high-quality results. They can help str
 
 This guide can help you learn how to use Stable Diffusion to create images. 
 
+# The secret for generating good images
+
+- A well-written prompt consisting of modifiers and a good sentence structure. The prompt format is introduced in sections 2 and 3 and explains all types of modifiers you can use to create your prompts. Section 4 introduces some magic words that can help you generate better images.
+- Well-adjusted Stable Diffusion parameters (section 5). While the default parameters are usually adequate, sometimes fine-tuned parameters can generate better results.
+
 ------------------------------------------------------------------
 # Download 
 
